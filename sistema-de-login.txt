@@ -1,1 +1,5 @@
 ==================== Sistema de Cadastro do Cliente ===================
+Nome completo:
+Telefone:
+E-mail:
+Endereço:
